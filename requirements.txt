@@ -1,1 +1,7 @@
-https://github.com/Basavaraj100/RAG.git
+langchain
+pypdf
+langchain-community
+tiktoken
+bs4
+langchain_openai
+
